@@ -10,3 +10,5 @@ run py 'main.py --download' to download or update COVID-19 data files
 'py main.py --deaths' to plot cumulative deaths chart
 
 'py main.py --deaths --daily' to plot daily deaths chart
+
+![](images/chart_cum_cases.png)
